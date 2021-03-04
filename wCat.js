@@ -3,6 +3,8 @@ let add_line=require("./add_line");
 let add=require("./add_non_empty");
 let input=process.argv.slice(2);
 let inp=input[0];
+//switch statment
+
 switch(inp){
     case "-s":
         break;
